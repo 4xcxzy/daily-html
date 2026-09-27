@@ -1,0 +1,44 @@
+<body>
+
+    <div class="flex3">
+
+        <header></header>
+
+    </div>
+
+    <div>
+            <nav></nav>
+    </div>
+    <div class="flex1">
+      
+        <main>
+            
+            <div class="flex2">
+              
+                 <aside></aside>
+                
+                        <article></article>
+
+            </div>
+
+        </main>
+
+     </div>   
+
+     <footer></footer>
+
+    
+
+</body>
+
+
+
+
+
+
+
+
+
+
+
+
